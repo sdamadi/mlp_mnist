@@ -1,0 +1,1 @@
+# training-mnist-with-fully-connected-network
